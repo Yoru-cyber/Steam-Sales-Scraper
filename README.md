@@ -4,10 +4,17 @@
 ## Technical Implementation
 This is a bot made with playwright that goes to different locations on the steam sales page like: trending, bestsellers and so goes on.
 It searches the links of the products on the main page, it opens the page of the product and scrapes the name, the price on sale and the original price.
+With all the data previously taken from Steam Sales Page, it writes that data on a CSV file and an Excel workbook with multiple sheets.
+
+## Features 📝
+- Logging
+- Web Scraping
+- CSV file
+- Excel file
 
 
 <p align="center">
-<img src="https://media1.tenor.com/m/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" alt="black cat very funny">
+<img src="https://media1.tenor.com/m/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" alt="kobayashi typing very fast">
 </p>
 
 ## Made with
