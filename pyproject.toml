@@ -1,0 +1,14 @@
+[project]
+name = "steam_sales_scraper_yoru_cyber"
+version = "0.0.2"
+authors = [
+  { name="Carlos Mendez", email="carlosmendez170210@gmail.com" },
+]
+description = "A bot that scrapes steam sales and save the recollected data"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
